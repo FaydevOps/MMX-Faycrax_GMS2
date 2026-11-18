@@ -1,9 +1,14 @@
-# GameMaker
+# GameMaker cache / builds
 *.yyz
 *.tmp
 .gm/
 GameMakerStudio2/
+*.win
+*.exe
+*.dll
+datafiles_yy/
 
-# OS junk
+# Sistema
 Thumbs.db
 .DS_Store
+desktop.ini
