@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"pal_swap_index_palette",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"pal_swap_index_palette",
+  "parent":{
+    "name":"PaletteSwap",
+    "path":"folders/Scripts/PaletteSwap.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

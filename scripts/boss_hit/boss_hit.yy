@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"boss_hit",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"boss_hit",
+  "parent":{
+    "name":"damages",
+    "path":"folders/Scripts/damages.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

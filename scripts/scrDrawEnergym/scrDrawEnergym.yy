@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrDrawEnergym",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrDrawEnergym",
+  "parent":{
+    "name":"lifebarextendables",
+    "path":"folders/Scripts/Player/lifebarextendables.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

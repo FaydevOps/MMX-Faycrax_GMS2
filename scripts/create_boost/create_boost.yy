@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"create_boost",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"create_boost",
+  "parent":{
+    "name":"effects",
+    "path":"folders/Scripts/effects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

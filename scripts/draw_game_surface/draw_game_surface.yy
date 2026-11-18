@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_game_surface",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_game_surface",
+  "parent":{
+    "name":"FRAMEWORK",
+    "path":"folders/Scripts/FRAMEWORK.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

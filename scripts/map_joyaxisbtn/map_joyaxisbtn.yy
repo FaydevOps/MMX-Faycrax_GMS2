@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"map_joyaxisbtn",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"map_joyaxisbtn",
+  "parent":{
+    "name":"FRAMEWORK",
+    "path":"folders/Scripts/FRAMEWORK.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

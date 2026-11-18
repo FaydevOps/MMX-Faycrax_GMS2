@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_car_motion",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_car_motion",
+  "parent":{
+    "name":"unused_old",
+    "path":"folders/Scripts/unused_old.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

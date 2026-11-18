@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_sv",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_sv",
+  "parent":{
+    "name":"guardado",
+    "path":"folders/Scripts/guardado.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

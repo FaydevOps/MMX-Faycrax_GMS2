@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"buster_position",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"buster_position",
+  "parent":{
+    "name":"effects",
+    "path":"folders/Scripts/effects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

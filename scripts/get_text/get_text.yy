@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_text",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_text",
+  "parent":{
+    "name":"FRAMEWORK",
+    "path":"folders/Scripts/FRAMEWORK.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"init_languages",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"init_languages",
+  "parent":{
+    "name":"FRAMEWORK",
+    "path":"folders/Scripts/FRAMEWORK.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"sndout",
+  "audioGroupId":{
+    "name":"sound_effects",
+    "path":"audiogroups/sound_effects",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.0,
+  "exportDir":"",
+  "name":"sndout",
+  "parent":{
+    "name":"PLAYER",
+    "path":"folders/Sounds/PLAYER.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndout",
+  "volume":1.0,
+}

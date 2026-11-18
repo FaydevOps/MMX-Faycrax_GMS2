@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_motionback",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_motionback",
+  "parent":{
+    "name":"unused_old",
+    "path":"folders/Scripts/unused_old.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

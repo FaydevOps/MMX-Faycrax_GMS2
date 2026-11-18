@@ -1,0 +1,38 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"back_castle4_tileset",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"back_castle4_tileset",
+  "out_columns":17,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"SecretBunker",
+    "path":"folders/Tile Sets/SecretBunker.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"back_castle4",
+    "path":"sprites/back_castle4/back_castle4.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"SecretBunker_tex",
+    "path":"texturegroups/SecretBunker_tex",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":16,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":16,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":273,
+}

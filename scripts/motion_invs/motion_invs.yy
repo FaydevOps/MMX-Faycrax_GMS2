@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"motion_invs",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"motion_invs",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Scripts/Player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

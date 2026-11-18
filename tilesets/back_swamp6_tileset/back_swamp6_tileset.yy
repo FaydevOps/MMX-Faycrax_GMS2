@@ -1,0 +1,38 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"back_swamp6_tileset",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"back_swamp6_tileset",
+  "out_columns":11,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"SwampForest",
+    "path":"folders/Tile Sets/SwampForest.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"back_swamp6",
+    "path":"sprites/back_swamp6/back_swamp6.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"SwampForest_tex",
+    "path":"texturegroups/SwampForest_tex",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":16,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":16,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":126,
+}

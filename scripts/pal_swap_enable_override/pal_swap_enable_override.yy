@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"pal_swap_enable_override",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"pal_swap_enable_override",
+  "parent":{
+    "name":"PaletteSwap",
+    "path":"folders/Scripts/PaletteSwap.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

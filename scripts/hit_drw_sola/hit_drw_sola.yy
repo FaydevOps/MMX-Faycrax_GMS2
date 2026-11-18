@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"hit_drw_sola",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"hit_drw_sola",
+  "parent":{
+    "name":"damages",
+    "path":"folders/Scripts/damages.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

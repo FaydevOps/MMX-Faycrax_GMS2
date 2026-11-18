@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"input_check",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"input_check",
+  "parent":{
+    "name":"FRAMEWORK",
+    "path":"folders/Scripts/FRAMEWORK.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,38 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"back_hunterb_tileset",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"back_hunterb_tileset",
+  "out_columns":93,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"IntroStage",
+    "path":"folders/Tile Sets/IntroStage.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_tiles_hunterbase",
+    "path":"sprites/spr_tiles_hunterbase/spr_tiles_hunterbase.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"IntroStage_tex",
+    "path":"texturegroups/IntroStage_tex",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":16,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":16,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":8649,
+}

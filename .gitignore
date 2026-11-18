@@ -1,0 +1,9 @@
+# GameMaker
+*.yyz
+*.tmp
+.gm/
+GameMakerStudio2/
+
+# OS junk
+Thumbs.db
+.DS_Store

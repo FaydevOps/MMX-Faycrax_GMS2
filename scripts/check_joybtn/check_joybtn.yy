@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"check_joybtn",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"check_joybtn",
+  "parent":{
+    "name":"FRAMEWORK",
+    "path":"folders/Scripts/FRAMEWORK.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

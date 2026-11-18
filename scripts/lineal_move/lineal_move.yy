@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"lineal_move",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"lineal_move",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

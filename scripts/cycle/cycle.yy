@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"cycle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cycle",
+  "parent":{
+    "name":"effects",
+    "path":"folders/Scripts/effects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

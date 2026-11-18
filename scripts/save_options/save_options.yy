@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"save_options",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"save_options",
+  "parent":{
+    "name":"FRAMEWORK",
+    "path":"folders/Scripts/FRAMEWORK.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

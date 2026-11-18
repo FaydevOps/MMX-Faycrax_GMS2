@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shGameBoy",
+  "name":"shGameBoy",
+  "parent":{
+    "name":"FRAMEWORK",
+    "path":"folders/Shaders/FRAMEWORK.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

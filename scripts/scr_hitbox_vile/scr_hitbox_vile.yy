@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_hitbox_vile",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_hitbox_vile",
+  "parent":{
+    "name":"damages",
+    "path":"folders/Scripts/damages.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
