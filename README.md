@@ -11,7 +11,7 @@ Fan game de acción y plataformas 2D inspirado en la saga *Mega Man X*, desarrol
 
 1. Clona el repositorio:
    ```powershell
-   git clone <url-del-repo>
+   git clone https://github.com/FaydevOps/MMX-Faycrax_GMS2
    ```
 2. Abre `MMX-MavericksFury_GMS2.yyp` con GameMaker.
 3. Pulsa **Run** (F5). La primera room del orden de ejecución es `main_rooms`.
